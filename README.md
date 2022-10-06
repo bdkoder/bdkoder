@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **WordPress, JS & jQuery**
 
-- 📫 How to reach me **bdkoder@gmail.com**, [Facebook](https://facebook.com/bdkoder2)
+- 📫 How to reach me **bdkoder@gmail.com**, [Facebook](https://facebook.com/bdkoder)
 
 - 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1zAggQYXxmyGKZYQTvokhE7K2jf8x8U6z/view?usp=sharing)
 
