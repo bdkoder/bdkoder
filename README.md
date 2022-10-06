@@ -1,4 +1,4 @@
-<h1>Hi <a href="https://www.facebook.com/bdkoder2"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Md Shahidul Islam (@bdkoder)</h1>
+<h1>Hi <a href="https://www.facebook.com/bdkoder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Md Shahidul Islam (@bdkoder)</h1>
 
 <h4>### Glad to see you here!  </h4>
 
@@ -27,7 +27,7 @@
 <a href="https://twitter.com/bdkoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdkoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bdkoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdkoder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/bdkoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bdkoder" height="30" width="40" /></a>
-<a href="https://fb.com/bdkoder2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bdkoder2" height="30" width="40" /></a>
+<a href="https://fb.com/bdkoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bdkoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
