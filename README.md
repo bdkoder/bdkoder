@@ -1,5 +1,7 @@
 <h1>Hi <a href="https://www.facebook.com/bdkoder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Md Shahidul Islam (@bdkoder)</h1>
 
+[![Shahidul Islam Intro (bdkoder)](https://img.youtube.com/vi/TB3Q3YwplOo/0.jpg)](https://www.youtube.com/watch?v=TB3Q3YwplOo)
+
 <h4>### Glad to see you here!  </h4>
 
 <h4>I’m interested in Software Development. Being a software Engineer with 5 years+ of experience. Expert on PHP, WordPress, JavaScript & jQuery. I had been working with FrontEnd Development for a long time. I’m currently learning & working WordPress Plugins and Elementor Addons Development. 🎯🌱 Having an extreme love towards JavaScript, jQuery & PHP. 💞️👋 I’m looking to collaborate on WordPress, Elementor, PHP and JS related projects.</h4>
