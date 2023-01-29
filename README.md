@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **bdkoder@gmail.com**, [Facebook](https://facebook.com/bdkoder)
 
-- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1zAggQYXxmyGKZYQTvokhE7K2jf8x8U6z/view?usp=sharing)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1v6cBdbKGcV4auSOnfQShVJ5kVvs7jZu6/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Lazy**
 
