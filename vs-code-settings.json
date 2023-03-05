@@ -1,0 +1,81 @@
+### Working Good in Office PC
+```json
+{
+  "workbench.settings.editor": "json",
+  "php.executablePath": "D:/laragon/bin/php/php-7.4.20-Win32-vc15-x64/php.exe",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "[javascript]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "[php]": {
+    // "editor.defaultFormatter": "persoderlind.vscode-phpcbf",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    // "editor.defaultFormatter": "kokororin.vscode-phpfmt",
+    // "editor.defaultFormatter": "persoderlind.vscode-phpcbf",
+    // "editor.defaultFormatter": "kokororin.vscode-phpfmt",
+    // "editor.defaultFormatter": "Sophisticode.php-formatter",
+  },
+  "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+  // "[php]": {
+  //   "editor.defaultFormatter": "Sophisticode.php-formatter",
+  //   // "editor.defaultFormatter": "Sophisticode.php-formatter",
+  //   "editor.formatOnSave": true
+  // },
+  "php-cs-fixer.rules": "@PSR2",
+  "php-cs-fixer.formatHtml": true,
+  "[less]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "editor.wordWrap": "on",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "grunt.autoDetect": "on",
+  "[scss]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "terminal.integrated.rendererType": "dom",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "workbench.colorTheme": "Monokai",
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${rootPath}\\${activeEditorMedium}",
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "cSpell.languageSettings": [],
+
+  "cSpell.diagnosticLevel": "Hint",
+  "workbench.colorCustomizations": {
+    // will change the color of three dots to red
+    "editorHint.foreground": "#ff0000",
+
+    // will underline the entire word with dots in your chosen color
+    "editorHint.border": "#00ff66"
+  },
+
+  "phpcs.enable": true,
+  "phpcs.executablePath": "C:\\Users\\Shahidul Islam\\wpcs\\vendor\\bin\\phpcs.bat",
+  "phpcs.standard": null,
+
+  "phpcbf.enable": true,
+  "phpcbf.executablePath": "C:\\Users\\Shahidul Islam\\wpcs\\vendor\\bin\\phpbf.bat",
+  "phpcbf.documentFormattingProvider": true,
+  "phpcbf.onsave": true,
+  "phpcbf.standard": "WodPress",
+  "intelephense.format.braces": "k&r",
+  "editor.inlineSuggest.enabled": true
+}
+```
