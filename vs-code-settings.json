@@ -1,5 +1,5 @@
 ### Working Good in Office PC
-```json
+```js
 {
   "workbench.settings.editor": "json",
   "php.executablePath": "D:/laragon/bin/php/php-7.4.20-Win32-vc15-x64/php.exe",
@@ -81,7 +81,7 @@
 ```
 
 ### Home Pc
-```json
+```js
 {
   "workbench.settings.editor": "json",
 "php.executablePath": "D:/laragon/bin/php/php-7.4.20-Win32-vc15-x64/php.exe",
