@@ -1,6 +1,6 @@
 <h1>Hi <a href="https://www.facebook.com/bdkoder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Md Shahidul Islam (@bdkoder)</h1>
 
-[![Shahidul Islam Intro (bdkoder)](https://img.youtube.com/vi/TB3Q3YwplOo/0.jpg)](https://www.youtube.com/watch?v=TB3Q3YwplOo)
+[![Shahidul Islam Intro (bdkoder)](https://i.ibb.co/H2KCJLq/Shahidul-Play-Icon.jpg)](https://www.youtube.com/watch?v=TB3Q3YwplOo)
 
 <h4>### Glad to see you here!  </h4>
 
