@@ -1,7 +1,7 @@
 <h1>Hello World <a href="https://www.facebook.com/bdkoder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Shahidul Islam (@bdkoder)</h1>
 <div>
   
-[<img align="right" alt="alt_text" width="400" src="https://i.imgur.com/aNBi8Jf.png" />](https://www.youtube.com/watch?v=TB3Q3YwplOo)
+[<img align="right" alt="alt_text" width="300" src="https://i.imgur.com/aNBi8Jf.png" />](https://www.youtube.com/watch?v=TB3Q3YwplOo)
 
 <h2> / glad to see you here! /</h2>
 
