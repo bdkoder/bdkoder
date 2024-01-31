@@ -22,7 +22,7 @@ import SoftwareEngineer from 'bdkoder';
 
 class Skills  extends SoftwareEngineer{
     constructor() {
-        const languages        = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
+        const languages        = [ 'C', 'C++', 'JavaScript', 'PHP', 'HTML', 'CSS', 'jQuery' ];
         const designFrameworks = [ 'Bootstrap', 'UIkit', 'Tailwind CSS' ];
         const frameworks       = [ 'CodeIgniter' ];
         const cms              = [ 'WordPress' ];
