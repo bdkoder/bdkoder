@@ -16,17 +16,18 @@
 - ⚡ Fun fact **I think I am Lazy**
   
 <h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript, js" />
-  <img src = "https://img.shields.io/badge/jquery-1572B6?style=for-the-badge&logo=jquery&logoColor=white" alt = "jquery" />
-  <img src = "https://img.shields.io/badge/wordpress-1572B6?style=for-the-badge&logo=wordpress&logoColor=white" alt = "wordpress" />
-  <img src = "https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/reactjs-1572B6?style=for-the-badge&logo=react" alt = "ReactJS" />
+
+```js
+import SoftwareEngineer from 'bdkoder';
+
+class Skills  extends SoftwareEngineer{
+    constructor() {
+        const languages      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'Java'];
+        const learning       = ['React'];
+    }
+}
+```
+
 </div>
 
 <h2> / experience history / </h2>
