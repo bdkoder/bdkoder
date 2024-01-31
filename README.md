@@ -55,27 +55,38 @@ class ExperienceHistory extends SoftwareEngineer {
         ElementPack : {
             name        : 'Element Pack',
             url         : 'https://elementpack.pro/',
+            type        : 'WordPress Plugin',
             description : 'Elementor Addons for WordPress Website.'
         },
         PrimeSlider : {
             name        : 'Prime Slider',
             url         : 'https://primeslider.pro/',
+            type        : 'WordPress Plugin',
             description : 'Slider builder that is compatible with any WP themes.'
         },
         UltimatePostKit : {
             name        : 'Ultimate Post Kit',
             url         : 'https://postkit.pro/',
+            type        : 'WordPress Plugin',
             description : 'Get Mind-blogging Post Layouts.'
         },
         UltimateStoreKit : {
             name        : 'Ultimate Store Kit',
             url         : 'https://storekit.pro/',
+            type        : 'WordPress Plugin',
             description : 'The Best Ecommerce Website Builder'
         },
         PixelGallery : {
             name        : 'Pixel Gallery',
             url         : 'https://pixelgallery.pro/',
+            type        : 'WordPress Plugin',
             description : 'Build Eye-Catchy WordPress Grid Gallery'
+        },
+         Rooten : {
+            name        : 'Rooten Pro',
+            url         : 'https://rooten.pro/',
+            type        : 'WordPress Themes',
+            description : 'Build Eye-Catchy WordPress Design.'
         }
     }
   }
@@ -90,10 +101,10 @@ class ExperienceHistory extends SoftwareEngineer {
     databases   = [ 'MySQL' ];
     frameworks  = [ 'Spring Framework' ],
     projects    = {
-        ElementPack : {
-            name        : 'Element Pack',
-            url         : 'https://elementpack.pro/',
-            description : 'Elementor Addons for WordPress Website.'
+        Platforms : {
+            name        : 'Workifyd',
+            url         : null,
+            description : 'Platform for freelancers.'
         }
     }
   }
@@ -110,6 +121,7 @@ class ExperienceHistory extends SoftwareEngineer {
         MissingPieces : {
             name        : 'MissingPieces',
             url         : null,
+            type        : 'E-commerce',
             description : 'An ecommerce website'
         }
     }
