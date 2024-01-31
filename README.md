@@ -30,21 +30,98 @@
 </div>
 
 <h2> / experience history / </h2>
-  
-- <h4> Software Engineer (Nov 2019 - Present)</h4>
-  
-  **- Company:**  [BdThemes Limited](https://bdthemes.com)
-  <br>
-  **- Location:** Bogura, Bangladesh
-    <p>As a Software Engineer here, I am also responsible for the Support Team. I have gained much knowledge about WordPress Development and JavaScript Development while working with a couple of   popular WordPress Plugins. Also as the Head of the Support Team, I am confident that I can provide support for any WordPress or JavaScript-related issue that may arise and have extensive experience with WordPress plugin development.
-  </p>
-  <strong>- Skills: </strong>
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript, js" />
-  <img src = "https://img.shields.io/badge/jquery-1572B6?style=for-the-badge&logo=jquery&logoColor=white" alt = "jquery" />
-  <img src = "https://img.shields.io/badge/wordpress-1572B6?style=for-the-badge&logo=wordpress&logoColor=white" alt = "wordpress" />
-  <img src = "https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
+
+```js
+import SoftwareEngineer from 'bdkoder';
+
+class ExperienceHistory extends SoftwareEngineer {
+
+  BdThemes() {
+    title       = 'Software Engineer';
+    company     = 'BdThemes Limited';
+    location    = 'Bogura, Bangladesh';
+    website     = 'https://bdthemes.com';
+    time        = 'November, 2019 - Continuing (4 yrs+)'
+    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'Elementor'];
+    databases   = ['MySQL', 'MariaDB'];
+    learning    = ['ReactJS'];
+    projects    = {
+        ElementPack : {
+            name        : 'Element Pack',
+            url         : 'https://elementpack.pro/',
+            description : 'Elementor Addons for WordPress Website.'
+        },
+        PrimeSlider : {
+            name        : 'Prime Slider',
+            url         : 'https://primeslider.pro/',
+            description : 'Slider builder that is compatible with any WP themes.'
+        },
+        UltimatePostKit : {
+            name        : 'Ultimate Post Kit',
+            url         : 'https://postkit.pro/',
+            description : 'Get Mind-blogging Post Layouts.'
+        },
+        UltimateStoreKit : {
+            name        : 'Ultimate Store Kit',
+            url         : 'https://storekit.pro/',
+            description : 'The Best Ecommerce Website Builder'
+        },
+        PixelGallery : {
+            name        : 'Pixel Gallery',
+            url         : 'https://pixelgallery.pro/',
+            description : 'Build Eye-Catchy WordPress Grid Gallery'
+        }
+    }
+  }
+
+   Workifyd() {
+    title       = 'Senior Software Engineer';
+    company     = 'A Workifyd Pvt. Co. Ltd.';
+    location    = 'New Delhi, India';
+    website     = 'https://workifyd.com/';
+    time        = 'May, 2018 - October, 2019 (1.4 yrs)'
+    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'Java'];
+    databases   = ['MySQL'];
+    frameworks  = ['Spring Framework'],
+    projects    = {
+        ElementPack : {
+            name        : 'Element Pack',
+            url         : 'https://elementpack.pro/',
+            description : 'Elementor Addons for WordPress Website.'
+        }
+    }
+  }
+
+   SynergyForce() {
+    title       = 'Web Developer';
+    company     = 'Synergy Force';
+    location    = 'Dhaka, Bangladesh';
+    website     = 'https://workifyd.com/';
+    time        = 'February, 2018 - April, 2018 (0.2yr)'
+    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
+    databases   = ['MySQL'];
+    projects    = {
+        MissingPieces : {
+            name        : 'MissingPieces',
+            url         : null,
+            description : 'An ecommerce website'
+        }
+    }
+  }
+
+   SynergyForce() {
+    title       = 'Software Engineer';
+    company     = 'Synergy Force';
+    location    = 'Dhaka, Bangladesh';
+    website     = null;
+    time        = 'May, 2017 - January, 2018 (0.7yr)'
+    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
+    databases   = ['MySQL', 'MariaDB'];
+    projects    = null
+  }
+
+}
+```
 
 
 <h3 align="left">Languages and Tools:</h3>
