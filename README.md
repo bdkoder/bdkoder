@@ -27,7 +27,6 @@ class Skills  extends SoftwareEngineer{
         const cms            = [ 'WordPress' ];
         const versioning     = [ 'SVN', 'git' ];
         const learning       = [ 'React' ];
-        
     }
 }
 
@@ -159,7 +158,6 @@ class Tools  extends SoftwareEngineer{
         const chat         = [ 'Skype', 'Slack', 'Discord' ];
         const virtual      = [ 'VirtualBox', 'VMWare' ];
         const remote       = [ 'TeamViewer', 'AnyDesk', 'VNC' ];
-
     }
 }
 ```
