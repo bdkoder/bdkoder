@@ -24,8 +24,8 @@ class Skills  extends SoftwareEngineer{
     constructor() {
         const languages        = [ 'C', 'C++', 'JavaScript', 'PHP', 'HTML', 'CSS', 'jQuery' ];
         const designFrameworks = [ 'Bootstrap', 'UIkit', 'Tailwind CSS' ];
-        const frameworks       = [ 'CodeIgniter' ];
         const cms              = [ 'WordPress' ];
+        const versioning       = [ 'SVN', 'git' ];
         const learning         = [ 'React' ];
         
     }
