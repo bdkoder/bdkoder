@@ -158,11 +158,18 @@ class Tools  extends SoftwareEngineer{
         const chat         = [ 'Skype', 'Slack', 'Discord' ];
         const virtual      = [ 'VirtualBox', 'VMWare' ];
         const remote       = [ 'TeamViewer', 'AnyDesk', 'VNC' ];
+        const api          = [ 'Postman' ];
+        const terminal     = [ 'Hyper', 'Cmd', 'PowerShell', 'Bash' ];
+        const ssh          = [ 'PuTTY' ];
+        const ftp          = [ 'FileZilla', 'WinSCP' ];
+        const task         = [ 'ClickUp', 'Jira' ];
+        const browserIDE   = [ 'JSFiddle', 'CodePen', 'JS Bin' ];
+        const video        = [ 'Camtasia' ];
     }
 }
 ```
+<h2> / github stats   / </h2>
 
-## Github Stats  
 <table width="100%" style="overflow: hidden;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bdkoder&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
