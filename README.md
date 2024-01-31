@@ -110,11 +110,11 @@ class ExperienceHistory extends SoftwareEngineer {
     }
   }
 
-   SynergyForce() {
+   CSL() {
     title       = 'Software Engineer';
-    company     = 'Synergy Force';
-    location    = 'Dhaka, Bangladesh';
-    website     = null;
+    company     = 'CSL Training';
+    location    = 'Bogura, Bangladesh';
+    website     = 'https://www.csltraining.com/';
     time        = 'May, 2017 - January, 2018 (0.7yr)'
     skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
     databases   = ['MySQL', 'MariaDB'];
