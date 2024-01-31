@@ -22,7 +22,7 @@ import SoftwareEngineer from 'bdkoder';
 
 class Skills  extends SoftwareEngineer{
     constructor() {
-        const languages      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'Java'];
+        const languages      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
         const learning       = ['React'];
     }
 }
