@@ -22,10 +22,13 @@ import SoftwareEngineer from 'bdkoder';
 
 class Skills  extends SoftwareEngineer{
     constructor() {
-        const languages      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
-        const learning       = ['React'];
+        const languages        = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
+        const designFrameworks = [ 'Bootstrap', 'UIkit', 'Tailwind CSS' ];
+        const frameworks       = [ 'CodeIgniter' ];
+        const learning         = [ 'React' ];
     }
 }
+
 ```
 
 </div>
@@ -43,9 +46,9 @@ class ExperienceHistory extends SoftwareEngineer {
     location    = 'Bogura, Bangladesh';
     website     = 'https://bdthemes.com';
     time        = 'November, 2019 - Continuing (4 yrs+)'
-    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'Elementor'];
-    databases   = ['MySQL', 'MariaDB'];
-    learning    = ['ReactJS'];
+    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'Elementor' ];
+    databases   = [ 'MySQL', 'MariaDB' ];
+    learning    = [ 'ReactJS' ];
     projects    = {
         ElementPack : {
             name        : 'Element Pack',
@@ -81,9 +84,9 @@ class ExperienceHistory extends SoftwareEngineer {
     location    = 'New Delhi, India';
     website     = 'https://workifyd.com/';
     time        = 'May, 2018 - October, 2019 (1.4 yrs)'
-    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'Java'];
-    databases   = ['MySQL'];
-    frameworks  = ['Spring Framework'],
+    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'Java' ];
+    databases   = [ 'MySQL' ];
+    frameworks  = [ 'Spring Framework' ],
     projects    = {
         ElementPack : {
             name        : 'Element Pack',
@@ -99,8 +102,8 @@ class ExperienceHistory extends SoftwareEngineer {
     location    = 'Dhaka, Bangladesh';
     website     = 'https://workifyd.com/';
     time        = 'February, 2018 - April, 2018 (0.2yr)'
-    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
-    databases   = ['MySQL'];
+    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
+    databases   = [ 'MySQL'];
     projects    = {
         MissingPieces : {
             name        : 'MissingPieces',
@@ -116,8 +119,8 @@ class ExperienceHistory extends SoftwareEngineer {
     location    = 'Bogura, Bangladesh';
     website     = 'https://www.csltraining.com/';
     time        = 'May, 2017 - January, 2018 (0.7yr)'
-    skills      = ['HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP'];
-    databases   = ['MySQL', 'MariaDB'];
+    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
+    databases   = [ 'MySQL', 'MariaDB' ];
     projects    = null
   }
 
