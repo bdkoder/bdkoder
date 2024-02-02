@@ -46,7 +46,7 @@ class ExperienceHistory extends SoftwareEngineer {
     company     = 'BdThemes Limited';
     location    = 'Bogura, Bangladesh';
     website     = 'https://bdthemes.com';
-    time        = 'November, 2019 - Continuing (4 yrs+)'
+    time        = 'November, 2019 - Continuing (4 yrs+)';
     skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'Elementor' ];
     databases   = [ 'MySQL', 'MariaDB' ];
     learning    = [ 'ReactJS' ];
@@ -95,7 +95,7 @@ class ExperienceHistory extends SoftwareEngineer {
     company     = 'A Workifyd Pvt. Co. Ltd.';
     location    = 'New Delhi, India';
     website     = 'https://workifyd.com/';
-    time        = 'May, 2018 - October, 2019 (1.4 yrs)'
+    time        = 'May, 2018 - October, 2019 (1.4 yrs)';
     skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'Java' ];
     databases   = [ 'MySQL' ];
     frameworks  = [ 'Spring Framework' ],
@@ -113,7 +113,7 @@ class ExperienceHistory extends SoftwareEngineer {
     company     = 'Synergy Force';
     location    = 'Dhaka, Bangladesh';
     website     = 'https://workifyd.com/';
-    time        = 'February, 2018 - April, 2018 (0.2yr)'
+    time        = 'February, 2018 - April, 2018 (0.2yr)';
     skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
     databases   = [ 'MySQL'];
     projects    = {
@@ -131,7 +131,7 @@ class ExperienceHistory extends SoftwareEngineer {
     company     = 'CSL Training';
     location    = 'Bogura, Bangladesh';
     website     = 'https://www.csltraining.com/';
-    time        = 'May, 2017 - January, 2018 (0.7yr)'
+    time        = 'May, 2017 - January, 2018 (0.7yr)';
     skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
     databases   = [ 'MySQL', 'MariaDB' ];
     projects    = null
