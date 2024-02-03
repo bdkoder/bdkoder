@@ -168,6 +168,138 @@ class Tools  extends SoftwareEngineer{
     }
 }
 ```
+
+<h2> / training summary / </h2>
+
+```js
+
+import SoftwareEngineer from 'bdkoder';
+
+class TrainingSummary extends SoftwareEngineer {
+
+    lavel_4() {
+        title       = 'NTVQ Level-1';
+        institute   = 'NTVQ';
+        location    = 'Bogura Polytechnic Institute';
+        year        = '2019';
+        duration    = '3 days';
+        skills      = [ 'Computer Basic Workshop' ];
+    }
+
+    lavel_1() {
+        title       = 'NTVQ Level-4';
+        institute   = 'NTVQ';
+        location    = 'Bogura Polytechnic Institute';
+        year        = '2019';
+        duration    = '15 days';
+        skills      = [ 'Computer Basic Workshop' ];
+    }
+    
+    technicalSEO() {
+        title       = 'Technical SEO';
+        institute   = 'Talha Training';
+        location    = 'Dhaka, Bangladesh ( Online )';
+        year        = '2018';
+        duration    = '6 months';
+        skills      = [ 'Meta desc & keywords', 'Analytics', 'Webmaster', 'URL structure',
+                        'Site speed', 'Sitemaps', 'Crawlability', 'Structured data', 'Image SEO', 'Robots.txt' ];
+    }
+
+    designAndSoftSkills() {
+        title       = 'Software Design & Soft Skills';
+        institute   = 'LICT';
+        location    = 'Bogura, Bangladesh';
+        year        = '2017';
+        duration    = '4 months';
+        skills      = [ 'Apps Design', 'Soft Skills' ];
+    }
+
+    softwareDevelopment() {
+        title       = 'Professional Software Development With PHP';
+        institute   = 'BITM';
+        location    = 'Dhaka, Bangladesh ( Online )';
+        year        = '2017';
+        duration    = '6 months';
+        skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'MySQL', 'Laravel' ];
+    }
+
+    softwareDevelopment() {
+        title       = 'C# with ASP.NET MVC';
+        institute   = 'CSL Training';
+        location    = 'Bogura, Bangladesh';
+        year        = '2016';
+        duration    = '4 months';
+        skills      = [ 'C#', 'ASP.NET', 'SQL' ];
+    }
+
+    softwareDevelopment() {
+        title       = 'Web Design & Applications Development';
+        institute   = 'CSL Training';
+        location    = 'Bogura, Bangladesh';
+        year        = '2016';
+        duration    = '4 months';
+        skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'MySQL' ];
+    }
+
+    webDesignAndDevelopment() {
+        title       = 'Web Design & WordPress Themes Development';
+        institute   = 'Soro Bindu';
+        location    = 'Dinajpur, Bangladesh ( Online )';
+        year        = '2015';
+        duration    = '6 months';
+        skills      = [ 'HTML', 'CSS', 'JavaScript Basic', 'jQuery', 'PHP', 'WordPress' ];
+    }
+
+    blackHatSEO() {
+        title       = 'Black Hat SEO';
+        institute   = 'Smart Software';
+        location    = 'Bogura, Bangladesh';
+        year        = '2015';
+        duration    = '2 months';
+        skills      = [ 'Offpage SEO', 'Link Building', 'Keyword Research', 'Google Analytics'];
+    }
+
+    softwareDevelopment() {
+        title       = 'Visual Basic 6.0';
+        institute   = 'Smart Software';
+        location    = 'Bogura, Bangladesh';
+        year        = '2015';
+        duration    = '6 months';
+        skills      = [ 'Basic', 'Windows Software Dev' ];
+    }
+
+    androidDevelopment() {
+        title       = 'Android Apps Development by Java';
+        institute   = 'Smart Software';
+        location    = 'Bogura, Bangladesh';
+        year        = '2014';
+        duration    = '3 months';
+        skills      = [ 'Java', 'Android' ];
+    }
+
+    basicProgramming() {
+        title       = 'C, C++ Basics';
+        institute   = 'Smart Software';
+        location    = 'Bogura, Bangladesh';
+        year        = '2014';
+        duration    = '2 months';
+        skills      = [ 'C', 'C++' ];
+    }
+
+    officeApplications() {
+        title       = 'Office Applications';
+        institute   = 'Shibpur High School';
+        location    = 'Birampur, Bangladesh';
+        year        = '2008';
+        duration    = '3 months';
+        skills      = [ 'Basic Computer', 'Office', 'Excel', 'PowerPoint', 'Emails' ];
+    }
+
+}
+
+```
+
+
 <h2> / github stats   / </h2>
 
 <table width="100%" style="overflow: hidden;"><tr><td valign="top" width="50%">
