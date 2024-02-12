@@ -178,20 +178,20 @@ import SoftwareEngineer from 'bdkoder';
 class TrainingSummary extends SoftwareEngineer {
 
     lavel_4() {
-        title       = 'NTVQ Level-1';
-        institute   = 'NTVQ';
-        location    = 'Bogura Polytechnic Institute';
-        year        = '2019';
-        duration    = '3 days';
-        skills      = [ 'Computer Basic Workshop' ];
-    }
-
-    lavel_1() {
         title       = 'NTVQ Level-4';
         institute   = 'NTVQ';
         location    = 'Bogura Polytechnic Institute';
         year        = '2019';
         duration    = '15 days';
+        skills      = [ 'Computer Basic Workshop' ];
+    }
+
+    lavel_1() {
+        title       = 'NTVQ Level-1';
+        institute   = 'NTVQ';
+        location    = 'Bogura Polytechnic Institute';
+        year        = '2019';
+        duration    = '3 days';
         skills      = [ 'Computer Basic Workshop' ];
     }
     
