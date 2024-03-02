@@ -292,7 +292,7 @@ class TrainingSummary extends SoftwareEngineer {
         location    = 'Birampur, Bangladesh';
         year        = '2008';
         duration    = '3 months';
-        skills      = [ 'Basic Computer', 'Office', 'Excel', 'PowerPoint', 'Emails' ];
+        skills      = [ 'Basic Computer', 'Office', 'Excel', 'PowerPoint', 'Paint' ];
     }
 
 }
