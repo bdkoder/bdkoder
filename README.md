@@ -1,7 +1,7 @@
 <h1>Hello World <a href="https://www.facebook.com/bdkoder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Shahidul Islam (@bdkoder)</h1>
 <div>
   
-[<img align="right" alt="alt_text" width="300" src="https://i.ibb.co/1z3Zfy7/shahidul-pic.jpg" />](https://www.youtube.com/watch?v=TB3Q3YwplOo)
+[<img align="right" alt="alt_text" width="300" src="https://i.ibb.co/1z3Zfy7/shahidul-pic.jpg"/>](https://www.youtube.com/watch?v=TB3Q3YwplOo)
 
 <h2> / glad to see you here! /</h2>
 
@@ -12,6 +12,7 @@
 - 👯 i’m looking to collaborate on WordPress Plugins Development
 - 💬 ask me about WordPress, JS & jQuery
 - 📫 reach me **bdkoder@gmail.com**, [LinkedIn](https://bd.linkedin.com/in/bdkoder),  [Facebook](https://facebook.com/bdkoder)
+- 🤙 WhatsApp / Phone: [+880 179 333 0005](https://wa.me/+8801793330005)
 - 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1blFoihDKpM8Lq02ajfbRez1W8C7WPk2W/view?usp=sharing)
 - ⚡ Fun fact **I think I am Lazy**
   
