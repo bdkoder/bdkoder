@@ -5,7 +5,7 @@
 
 <h2> / glad to see you here! /</h2>
 
-- I’m interested in Software Development. Being a software Engineer with **6+ years** of experience. Expert on PHP, WordPress, JavaScript & jQuery. I had been working with FrontEnd Development for a long time. I’m currently learning & working on WordPress Plugins and Elementor Addons Development. 🎯🌱 Having an extreme love towards JavaScript, jQuery & PHP. 💞️👋 I’m looking to collaborate on WordPress, Elementor, PHP, and JS related projects.
+- I’m interested in Software Development. Being a software Engineer with **6+ years** of experience. Expert on PHP, WordPress, JavaScript & jQuery. I have been working with FrontEnd Development for a long time. I’m currently learning & working on WordPress Plugins and Elementor Addons Development. 🎯🌱 Having an extreme love towards JavaScript, jQuery & PHP. 💞️👋 I’m looking to collaborate on WordPress, Elementor, PHP, and JS-related projects.
   
 - ⭐ currently working on **plugins development**
 - 💀 mostly working on **private repositories**
