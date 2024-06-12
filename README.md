@@ -300,22 +300,24 @@ class TrainingSummary extends SoftwareEngineer {
 
 ```
 
+<h2> / github analytics   / </h2>
 
-<h2> / github stats   / </h2>
+<p>
+  <a href="https://github.com/bdkoder">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bdkoder&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bdkoder&layout=compact&langs_count=10&theme=gruvbox"/>
+  </a>
+</p>
+<p>
+  <!--  CONTRIBUTION AND STREAK BLOCK -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdkoder&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=gruvbox" alt="https://git.io/streak-stats" />
+</p>
 
-<table width="100%" style="overflow: hidden;"><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bdkoder&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdkoder&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
 <br />
+
 
 
 
