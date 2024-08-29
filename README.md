@@ -27,7 +27,7 @@ class Skills  extends SoftwareEngineer{
         const versionCtrl    = [ 'Bootstrap', 'UIkit', 'Tailwind CSS' ];
         const cms            = [ 'WordPress' ];
         const versioning     = [ 'SVN', 'git' ];
-        const learning       = [ 'ReactJS', 'Shell Script' ];
+        const learning       = [ 'ReactJS', 'Shell Script', 'Gutenberg' ];
     }
 }
 
