@@ -8,6 +8,7 @@
 - I'm a Full-Stack Developer with **7+ years** of experience in PHP, WordPress, JavaScript, jQuery, ReactJS, and MySQL. 🎯🌱 I specialize in custom application development, focusing on WordPress Plugins, Elementor Addons, and Gutenberg Blocks. 💞️👋 I'm excited to collaborate on innovative projects involving WordPress, Elementor, and full-stack development.
   
 - ⭐ currently working on **plugins development**
+-  ⭐ currently working on **gutenberg blocks development**
 - 💀 mostly working on **private repositories**
 - 👯 i’m looking to collaborate on WordPress Plugins Development
 - 💬 ask me about WordPress, JS & jQuery
