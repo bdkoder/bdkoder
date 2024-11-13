@@ -5,7 +5,7 @@
 
 <h2> / glad to see you here! /</h2>
 
-- I am a Full-Stack Developer with over 7 years of experience in the field, with extensive skills in PHP, WordPress, JavaScript, jQuery, ReactJS, and MySQL. 🌱 I specialize in custom application development, focusing on WordPress Plugins, Elementor Addons, and Gutenberg Blocks. 💞️👋 I'm eager to collaborate on innovative projects that involve WordPress, Elementor, and full-stack development.
+- I am a Full-Stack Engineer with over 7 years of experience in the field, with extensive skills in PHP, WordPress, JavaScript, jQuery, ReactJS, and MySQL. 🌱 I specialize in custom application development, focusing on WordPress Plugins, Elementor Addons, and Gutenberg Blocks. 💞️👋 I'm eager to collaborate on innovative projects that involve WordPress, Elementor, and full-stack development.
   
 - ⭐ currently working on **plugins development**
 -  ⭐ currently working on **gutenberg blocks development**
