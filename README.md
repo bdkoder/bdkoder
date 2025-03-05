@@ -17,289 +17,166 @@
 - 📄 know about my experiences [Download Resume](https://drive.google.com/file/d/1blFoihDKpM8Lq02ajfbRez1W8C7WPk2W/view?usp=sharing)
 - ⚡ fun fact **I think I am Lazy**
   
-<h2> / current skills / </h2>
+<h2> 🛠️ / current skills / </h2>
+Here’s a summary of my technical skills and areas of expertise:
 
-```js
-import SoftwareEngineer from 'bdkoder';
+---
 
-class Skills  extends SoftwareEngineer{
-    constructor() {
-        const languages      = [ 'C', 'C++', 'JavaScript', 'PHP', 'HTML', 'CSS', 'jQuery', 'ReactJS' ];
-        const design         = [ 'Bootstrap', 'UIkit', 'Tailwind CSS' ];
-        const cms            = [ 'WordPress' ];
-        const versioning     = [ 'SVN', 'git' ];
-        const learning       = [ 'ReactJS', 'Shell Script', 'Gutenberg' ];
-    }
-}
+| Category       | Skills                                                                 |
+|----------------|------------------------------------------------------------------------|
+| **Languages**  | C, C++, JavaScript, PHP, HTML, CSS, jQuery, ReactJS                    |
+| **Design**     | Bootstrap, UIkit, Tailwind CSS                                         |
+| **CMS**        | WordPress                                                              |
+| **Versioning** | SVN, Git                                                               |
+| **Learning**   | ReactJS, Shell Script, Gutenberg                                       |
 
-```
+---
+
+### 🚀 **Why These Skills?**
+- **Versatility:** I’m proficient in both frontend and backend technologies, allowing me to build full-stack solutions.
+- **Continuous Learning:** I’m always expanding my skill set to stay updated with the latest industry trends.
+- **Problem-Solving:** My diverse skill set enables me to tackle complex challenges and deliver efficient solutions.
+
+---
 
 </div>
 
-<h2> / experience history / </h2>
+## / 🚀 experience history /
 
-```js
-import SoftwareEngineer from 'bdkoder';
+### 💻 **Senior Software Engineer** @ [BdThemes Limited](https://bdthemes.com)
+📍 **Location:** Bogura, Bangladesh  (In-house)    
+⏳ **Duration:** November 2019 - Feb 2025 (5+ years)  
+🛠️ **Skills:** HTML, CSS, JavaScript, jQuery, PHP, Elementor  
+🗃️ **Databases:** MySQL, MariaDB  
+📚 **Learning:** ReactJS  
 
-class ExperienceHistory extends SoftwareEngineer {
+### 🚀 **Projects:**
+- **🎨 [Element Pack](https://elementpack.pro/)**  
+  _WordPress Plugin_  
+  Elementor Addons for WordPress Website.
 
-  BdThemes() {
-    title       = 'Software Engineer';
-    company     = 'BdThemes Limited';
-    location    = 'Bogura, Bangladesh';
-    website     = 'https://bdthemes.com';
-    time        = 'November, 2019 - Continuing (4 yrs+)';
-    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'Elementor' ];
-    databases   = [ 'MySQL', 'MariaDB' ];
-    learning    = [ 'ReactJS' ];
-    projects    = {
-        ElementPack : {
-            name        : 'Element Pack',
-            url         : 'https://elementpack.pro/',
-            type        : 'WordPress Plugin',
-            description : 'Elementor Addons for WordPress Website.'
-        },
-        PrimeSlider : {
-            name        : 'Prime Slider',
-            url         : 'https://primeslider.pro/',
-            type        : 'WordPress Plugin',
-            description : 'Slider builder that is compatible with any WP themes.'
-        },
-        UltimatePostKit : {
-            name        : 'Ultimate Post Kit',
-            url         : 'https://postkit.pro/',
-            type        : 'WordPress Plugin',
-            description : 'Get Mind-blogging Post Layouts.'
-        },
-        UltimateStoreKit : {
-            name        : 'Ultimate Store Kit',
-            url         : 'https://storekit.pro/',
-            type        : 'WordPress Plugin',
-            description : 'The Best Ecommerce Website Builder'
-        },
-        PixelGallery : {
-            name        : 'Pixel Gallery',
-            url         : 'https://pixelgallery.pro/',
-            type        : 'WordPress Plugin',
-            description : 'Build Eye-Catchy WordPress Grid Gallery'
-        },
-         Rooten : {
-            name        : 'Rooten Pro',
-            url         : 'https://rooten.pro/',
-            type        : 'WordPress Themes',
-            description : 'Build Eye-Catchy WordPress Design.'
-        }
-    }
-  }
+- **🎥 [Prime Slider](https://primeslider.pro/)**  
+  _WordPress Plugin_  
+  Slider builder compatible with any WP themes.
 
-   Workifyd() {
-    title       = 'Senior Software Engineer';
-    company     = 'A Workifyd Pvt. Co. Ltd.';
-    location    = 'New Delhi, India';
-    website     = 'https://workifyd.com/';
-    time        = 'May, 2018 - October, 2019 (1.4 yrs)';
-    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'Java' ];
-    databases   = [ 'MySQL' ];
-    frameworks  = [ 'Spring Framework' ],
-    projects    = {
-        Platforms : {
-            name        : 'Workifyd',
-            url         : null,
-            description : 'Platform for freelancers.'
-        }
-    }
-  }
+- **📰 [Ultimate Post Kit](https://postkit.pro/)**  
+  _WordPress Plugin_  
+  Get mind-blowing post layouts.
 
-   SynergyForce() {
-    title       = 'Web Developer';
-    company     = 'Synergy Force';
-    location    = 'Dhaka, Bangladesh';
-    website     = 'https://workifyd.com/';
-    time        = 'February, 2018 - April, 2018 (0.2yr)';
-    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
-    databases   = [ 'MySQL'];
-    projects    = {
-        MissingPieces : {
-            name        : 'MissingPieces',
-            url         : null,
-            type        : 'E-commerce',
-            description : 'An ecommerce website'
-        }
-    }
-  }
+- **🛒 [Ultimate Store Kit](https://storekit.pro/)**  
+  _WordPress Plugin_  
+  The best eCommerce website builder.
 
-   CSL() {
-    title       = 'Software Engineer';
-    company     = 'CSL Training';
-    location    = 'Bogura, Bangladesh';
-    website     = 'https://www.csltraining.com/';
-    time        = 'May, 2017 - January, 2018 (0.7yr)';
-    skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP' ];
-    databases   = [ 'MySQL', 'MariaDB' ];
-    projects    = null
-  }
+- **🖼️ [Pixel Gallery](https://pixelgallery.pro/)**  
+  _WordPress Plugin_  
+  Build eye-catching WordPress grid galleries.
 
-}
-```
+- **🌐 [Rooten Pro](https://rooten.pro/)**  
+  _WordPress Theme_  
+  Build eye-catching WordPress designs.
 
-<h2> / tools / </h2>
+---
 
-```js
-import SoftwareEngineer from 'bdkoder';
+### 🚀 **Senior Software Engineer** @ [Workifyd Pvt. Co. Ltd.](https://workifyd.com/)
+📍 **Location:** New Delhi, India  
+⏳ **Duration:** May 2018 - October 2019 (1.4 years)  
+🛠️ **Skills:** HTML, CSS, JavaScript, jQuery, Java  
+🗃️ **Databases:** MySQL  
+🧰 **Frameworks:** Spring Framework  
 
-class Tools  extends SoftwareEngineer{
-    constructor() {
-        const editor       = [ 'VS Code', 'Sublime Text', 'Notepad++', 'NetBeans', 'Eclipse', 'Atom' ];
-        const database     = [ 'DataGrip', 'HeidiSQL', 'phpMyAdmin', 'MySQL Workbench' ];
-        const versionCtrl  = [ 'Git', 'SVN' ];
-        const operatingSys = [ 'Windows', 'Linux', 'Mac' ];
-        const server       = [ 'Apache', 'Nginx' ];
-        const browser      = [ 'Chrome', 'Firefox', 'Opera', 'Safari', 'Edge', 'IE' ];
-        const design       = [ 'Adobe Photoshop', 'Figma' ];
-        const office       = [ 'Microsoft Office' ];
-        const chat         = [ 'Skype', 'Slack', 'Discord' ];
-        const virtual      = [ 'VirtualBox', 'VMWare' ];
-        const remote       = [ 'TeamViewer', 'AnyDesk', 'VNC' ];
-        const api          = [ 'Postman' ];
-        const terminal     = [ 'Hyper', 'Cmd', 'PowerShell', 'Bash' ];
-        const ssh          = [ 'PuTTY' ];
-        const ftp          = [ 'FileZilla', 'WinSCP' ];
-        const task         = [ 'ClickUp', 'Jira' ];
-        const browserIDE   = [ 'JSFiddle', 'CodePen', 'JS Bin' ];
-        const video        = [ 'Camtasia' ];
-    }
-}
-```
+### 🚀 **Projects:**
+- **💼 Workifyd**  
+  Platform for freelancers.
 
-<h2> / training summary / </h2>
+---
 
-```js
+### 🌐 **Web Developer** @ [Synergy Force](https://workifyd.com/)
+📍 **Location:** Dhaka, Bangladesh  
+⏳ **Duration:** February 2018 - April 2018 (0.2 years)  
+🛠️ **Skills:** HTML, CSS, JavaScript, jQuery, PHP  
+🗃️ **Databases:** MySQL  
 
-import SoftwareEngineer from 'bdkoder';
+### 🚀 **Projects:**
+- **🧩 MissingPieces**  
+  _E-commerce_  
+  An eCommerce website.
 
-class TrainingSummary extends SoftwareEngineer {
+---
 
-    lavel_4() {
-        title       = 'NTVQ Level-4';
-        institute   = 'NTVQ';
-        location    = 'Bogura Polytechnic Institute';
-        year        = '2019';
-        duration    = '15 days';
-        skills      = [ 'Computer Basic Workshop' ];
-    }
+### 💻 **Software Engineer** @ [CSL Training](https://www.csltraining.com/)
+📍 **Location:** Bogura, Bangladesh  
+⏳ **Duration:** May 2017 - January 2018 (0.7 years)  
+🛠️ **Skills:** HTML, CSS, JavaScript, jQuery, PHP  
+🗃️ **Databases:** MySQL, MariaDB  
 
-    lavel_1() {
-        title       = 'NTVQ Level-1';
-        institute   = 'NTVQ';
-        location    = 'Bogura Polytechnic Institute';
-        year        = '2019';
-        duration    = '3 days';
-        skills      = [ 'Computer Basic Workshop' ];
-    }
-    
-    technicalSEO() {
-        title       = 'Technical SEO';
-        institute   = 'Talha Training';
-        location    = 'Dhaka, Bangladesh ( Online )';
-        year        = '2018';
-        duration    = '6 months';
-        skills      = [ 'Meta desc & keywords', 'Analytics', 'Webmaster', 'URL structure',
-                        'Site speed', 'Sitemaps', 'Crawlability', 'Structured data', 'Image SEO', 'Robots.txt' ];
-    }
+---
 
-    designAndSoftSkills() {
-        title       = 'Software Design & Soft Skills';
-        institute   = 'LICT';
-        location    = 'Bogura, Bangladesh';
-        year        = '2017';
-        duration    = '4 months';
-        skills      = [ 'Apps Design', 'Soft Skills' ];
-    }
+### 🌟 **Highlights**
+- 🏆 Built **5+ WordPress plugins** used by thousands of users worldwide.  
+- 🚀 Contributed to **freelancer platforms** and **eCommerce solutions**.  
+- 📚 Continuously learning and expanding skills in **ReactJS**.  
 
-    softwareDevelopment() {
-        title       = 'Professional Software Development With PHP';
-        institute   = 'BITM';
-        location    = 'Dhaka, Bangladesh ( Online )';
-        year        = '2017';
-        duration    = '6 months';
-        skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'MySQL', 'Laravel' ];
-    }
+---
 
-    softwareDevelopment() {
-        title       = 'C# with ASP.NET MVC';
-        institute   = 'CSL Training';
-        location    = 'Bogura, Bangladesh';
-        year        = '2016';
-        duration    = '4 months';
-        skills      = [ 'C#', 'ASP.NET', 'SQL' ];
-    }
+<h2> / 🛠️ tools & Technologies / </h2>
+As a **Software Engineer**, I work with a wide range of tools and technologies to build, debug, and deploy applications. Here's a breakdown of the tools I use:
+---
 
-    softwareDevelopment() {
-        title       = 'Web Design & Applications Development';
-        institute   = 'CSL Training';
-        location    = 'Bogura, Bangladesh';
-        year        = '2016';
-        duration    = '4 months';
-        skills      = [ 'HTML', 'CSS', 'JavaScript', 'jQuery', 'PHP', 'MySQL' ];
-    }
+| Category            | Tools                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------|
+| **Editors & IDEs**  | VS Code, Sublime Text, Notepad++, NetBeans, Eclipse, Atom                                 |
+| **Database Tools**  | DataGrip, HeidiSQL, phpMyAdmin, MySQL Workbench                                           |
+| **Version Control** | Git, SVN                                                                                 |
+| **Operating Systems** | Windows, Linux, Mac                                                                     |
+| **Servers**         | Apache, Nginx                                                                            |
+| **Browsers**        | Chrome, Firefox, Opera, Safari, Edge, IE                                                 |
+| **Design Tools**    | Adobe Photoshop, Figma                                                                   |
+| **Office Tools**    | Microsoft Office                                                                         |
+| **Communication Tools** | Skype, Slack, Discord                                                                 |
+| **Virtualization Tools** | VirtualBox, VMWare                                                                  |
+| **Remote Access Tools** | TeamViewer, AnyDesk, VNC                                                             |
+| **API Tools**       | Postman                                                                                  |
+| **Terminal Tools**  | Hyper, Cmd, PowerShell, Bash                                                            |
+| **SSH Tools**       | PuTTY                                                                                   |
+| **FTP Tools**       | FileZilla, WinSCP                                                                       |
+| **Task Management Tools** | ClickUp, Jira                                                                      |
+| **Browser-Based IDEs** | JSFiddle, CodePen, JS Bin                                                           |
+| **Video Tools**     | Camtasia                                                                                |
 
-    webDesignAndDevelopment() {
-        title       = 'Web Design & WordPress Themes Development';
-        institute   = 'Soro Bindu';
-        location    = 'Dinajpur, Bangladesh ( Online )';
-        year        = '2015';
-        duration    = '6 months';
-        skills      = [ 'HTML', 'CSS', 'JavaScript Basic', 'jQuery', 'PHP', 'WordPress' ];
-    }
+---
 
-    blackHatSEO() {
-        title       = 'Black Hat SEO';
-        institute   = 'Smart Software';
-        location    = 'Bogura, Bangladesh';
-        year        = '2015';
-        duration    = '2 months';
-        skills      = [ 'Offpage SEO', 'Link Building', 'Keyword Research', 'Google Analytics'];
-    }
+### 🚀 **Why These Tools?**
+These tools help me streamline my workflow, collaborate effectively, and deliver high-quality software solutions. Whether it's coding, debugging, or designing, I rely on these tools to get the job done efficiently.
 
-    softwareDevelopment() {
-        title       = 'Visual Basic 6.0';
-        institute   = 'Smart Software';
-        location    = 'Bogura, Bangladesh';
-        year        = '2015';
-        duration    = '6 months';
-        skills      = [ 'Basic', 'Windows Software Dev' ];
-    }
+---
+## 🎓 /training summary/
 
-    androidDevelopment() {
-        title       = 'Android Apps Development by Java';
-        institute   = 'Smart Software';
-        location    = 'Bogura, Bangladesh';
-        year        = '2014';
-        duration    = '3 months';
-        skills      = [ 'Java', 'Android' ];
-    }
+Here’s a summary of my professional training and certifications:
 
-    basicProgramming() {
-        title       = 'C, C++ Basics';
-        institute   = 'Smart Software';
-        location    = 'Bogura, Bangladesh';
-        year        = '2014';
-        duration    = '2 months';
-        skills      = [ 'C', 'C++' ];
-    }
+---
 
-    officeApplications() {
-        title       = 'Office Applications';
-        institute   = 'Shibpur High School';
-        location    = 'Birampur, Bangladesh';
-        year        = '2008';
-        duration    = '3 months';
-        skills      = [ 'Basic Computer', 'Office', 'Excel', 'PowerPoint', 'Paint' ];
-    }
+| Title                                      | Institute               | Location                     | Year   | Duration   | Skills                                                                 |
+|--------------------------------------------|-------------------------|------------------------------|--------|------------|------------------------------------------------------------------------|
+| **NTVQ Level-4**                           | NTVQ                   | Bogura Polytechnic Institute | 2019   | 15 days    | Computer Basic Workshop                                               |
+| **NTVQ Level-1**                           | NTVQ                   | Bogura Polytechnic Institute | 2019   | 3 days     | Computer Basic Workshop                                               |
+| **Technical SEO**                          | Talha Training         | Dhaka, Bangladesh (Online)   | 2018   | 6 months   | Meta desc & keywords, Analytics, Webmaster, URL structure, Site speed, Sitemaps, Crawlability, Structured data, Image SEO, Robots.txt |
+| **Software Design & Soft Skills**          | LICT                  | Bogura, Bangladesh           | 2017   | 4 months   | Apps Design, Soft Skills                                              |
+| **Professional Software Development With PHP** | BITM               | Dhaka, Bangladesh (Online)   | 2017   | 6 months   | HTML, CSS, JavaScript, jQuery, PHP, MySQL, Laravel                   |
+| **C# with ASP.NET MVC**                    | CSL Training          | Bogura, Bangladesh           | 2016   | 4 months   | C#, ASP.NET, SQL                                                      |
+| **Web Design & Applications Development**  | CSL Training          | Bogura, Bangladesh           | 2016   | 4 months   | HTML, CSS, JavaScript, jQuery, PHP, MySQL                            |
+| **Web Design & WordPress Themes Development** | Soro Bindu         | Dinajpur, Bangladesh (Online)| 2015   | 6 months   | HTML, CSS, JavaScript Basic, jQuery, PHP, WordPress                  |
+| **Black Hat SEO**                          | Smart Software        | Bogura, Bangladesh           | 2015   | 2 months   | Offpage SEO, Link Building, Keyword Research, Google Analytics       |
+| **Visual Basic 6.0**                       | Smart Software        | Bogura, Bangladesh           | 2015   | 6 months   | Basic, Windows Software Dev                                           |
+| **Android Apps Development by Java**       | Smart Software        | Bogura, Bangladesh           | 2014   | 3 months   | Java, Android                                                         |
+| **C, C++ Basics**                          | Smart Software        | Bogura, Bangladesh           | 2014   | 2 months   | C, C++                                                                |
+| **Office Applications**                    | Shibpur High School   | Birampur, Bangladesh         | 2008   | 3 months   | Basic Computer, Office, Excel, PowerPoint, Paint                      |
 
-}
+---
 
-```
+### 🚀 **Key Takeaways**
+- **Diverse Skills:** From web development to SEO, I’ve trained in a wide range of technologies and methodologies.
+- **Hands-On Experience:** Each training program included practical projects to solidify my understanding.
+- **Continuous Learning:** I’m always eager to learn new tools and technologies to stay ahead in the industry.
 
 <h2> / github analytics   / </h2>
 
