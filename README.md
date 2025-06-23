@@ -169,7 +169,7 @@ Here’s a summary of my professional training and certifications:
 | **Visual Basic 6.0**                       | Smart Software        | Bogura, Bangladesh           | 2015   | 6 months   | Basic, Windows Software Dev                                           |
 | **Android Apps Development by Java**       | Smart Software        | Bogura, Bangladesh           | 2014   | 3 months   | Java, Android                                                         |
 | **C, C++ Basics**                          | Smart Software        | Bogura, Bangladesh           | 2014   | 2 months   | C, C++                                                                |
-| **Office Applications**                    | Shibpur High School   | Birampur, Bangladesh         | 2008   | 3 months   | Basic Computer, Office, Excel, PowerPoint, Paint                      |
+| **Office Applications**                    | Shibpur High School   | Birampur, Bangladesh         | 2009   | 3 months   | Basic Computer, Office, Excel, PowerPoint, Paint                      |
 
 ---
 
