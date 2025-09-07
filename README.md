@@ -5,7 +5,7 @@
 
 <h2> / glad to see you here! /</h2>
 
-- I’m a Software Engineer & founder of wowDevs (wowdevs.com) with 8+ years of expertise in WordPress and Full-Stack Development, specializing in PHP, JavaScript, ReactJS, and MySQL. 🌱 My passion is crafting custom solutions, with a focus on WordPress Plugins, Elementor Addons, and Gutenberg Blocks. 💞️👋 🚀 Let’s team up to build innovative projects and push the boundaries of WordPress and full-stack development!
+- I’m a Software Engineer of wowDevs (wowdevs.com) with 8+ years of expertise in WordPress and Full-Stack Development, specializing in PHP, JavaScript, ReactJS, and MySQL. 🌱 My passion is crafting custom solutions, with a focus on WordPress Plugins, Elementor Addons, and Gutenberg Blocks. 💞️👋 🚀 Let’s team up to build innovative projects and push the boundaries of WordPress and full-stack development!
   
 - ⭐ currently working on **plugins development**
 -  ⭐ currently working on **gutenberg blocks development**
